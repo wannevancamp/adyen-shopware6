@@ -16,6 +16,31 @@ Please note that versions >= 3.0.0 of this plugin only support Shopware versions
 
 For Shopware 5 support please see our Shopware 5 repository.
 
+## Releases
+
+1. **Major** releases are done ONLY when absolutely required. We try to not to introduce breaking changes and do major releases as rare as possible. Current average is **yearly**.
+2. A minor or a patch release is scheduled but not limited to **once every 2 weeks.**
+
+**Note: This can be subject to change based on the load and dependancies of the Ecommerce plugins team.**
+
+## Support & Maintenance
+
+We provide three levels of support:
+1. **Level 1 (12 months)**: full support (including new features) *Keep in mind that some new features are not possible on older versions, therefore this is not inclusive of ALL new features that are built.* 
+2. **Level 2 (12 months - 18 months)**: high priority bugs / security only.
+3. **Level 3 (18 months - 24 months)**: security updates only (no support from support team).
+
+> After Level 3 there is no support or maintenance from Adyen and it should be treated as a native integration of the merchant.
+
+The schedule for the current maintained branches is:
+
+|  Plugin Major Version   |  Release Date  |  Level 1 Support ends   |  Level 2 Support ends   |  Level 3 Support ends  |
+|  :-----          |  :-----          |  :-----          |  :-----          |  :-----          |
+|  Version 2 |  March 2021 |  March 2022 |  October  2022 |  March 2023 |
+|  Version 3 |  June 2021 |  Not planned |  Not planned | Not planned |
+|  Version 4 |  - |  12 months after release |  18 months after release |  24 months after release |
+
+
 ## Documentation
 Please find the relevant documentation for
  - [How to start with Adyen](https://www.adyen.com/get-started)
